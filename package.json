@@ -1,0 +1,45 @@
+{
+  "_from": "Leaflet.TileLayer.DBTiles",
+  "_id": "Leaflet.TileLayer.DBTiles@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-L0OOaSqgpdkEs/tgsbfdVKTYrHE=",
+  "_location": "/Leaflet.TileLayer.DBTiles",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "Leaflet.TileLayer.DBTiles",
+    "name": "Leaflet.TileLayer.DBTiles",
+    "escapedName": "Leaflet.TileLayer.DBTiles",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/Leaflet.TileLayer.DBTiles/-/Leaflet.TileLayer.DBTiles-1.0.0.tgz",
+  "_shasum": "2f438e692aa0a5d904b3fb60b1b7dd54a4d8ac71",
+  "_spec": "Leaflet.TileLayer.DBTiles",
+  "_where": "/Users/antony/newprojet/Leaflet.TileLayer.DBTiles",
+  "author": {
+    "name": "Antony Santero",
+    "email": "antony_santero@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/santony85/Leaflet.TileLayer.DBTiles/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Load MBTiles packages into Leaflet maps",
+  "homepage": "https://gitlab.com/santony85/Leaflet.TileLayer.DBTiles#README",
+  "license": "Beerware",
+  "main": "Leaflet.TileLayer.MBTiles.js",
+  "name": "Leaflet.TileLayer.MBTiles",
+  "repository": {
+    "url": "git+https://gitlab.com/santony85/Leaflet.TileLayer.DBTiles.git",
+    "type": "git"
+  },
+  "version": "1.0.0"
+}
